@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Arobi fork context:** this repository tracks upstream **9Router** work for provider/routing experimentation used in Arobi engineering. Upstream project branding, licensing, authorship, and claims remain with the original project. This repository is **not** the Immaculate product itself and is not a Ullumii release. Current Arobi workspace product: **[Ullumii by Arobi](https://www.iorch.net/ullumii)**.
+
 <div align="center">
   <img src="./images/9router.png?1" alt="9Router Dashboard" width="800"/>
   
